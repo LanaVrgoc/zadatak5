@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\vrgoc\OneDrive\Radna površina\FAKS\strukPod\vjezba2\Project1\Project1\main.c(141,7): warning C4013: 'isdigit' undefined; assuming extern returning int
+C:\Users\vrgoc\OneDrive\Radna površina\FAKS\strukPod\vjezba2\Project1\Project1\main.c(151,28): warning C4047: '==': 'char *' differs in levels of indirection from 'int'
+C:\Users\vrgoc\OneDrive\Radna površina\FAKS\strukPod\vjezba2\Project1\Project1\main.c(151,64): error C2137: empty character constant
